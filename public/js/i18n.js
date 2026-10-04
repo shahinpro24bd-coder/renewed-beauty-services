@@ -15,7 +15,7 @@
 
   var FLAGS = {
     en: '<img src="/img/flag-english.png" alt="" aria-hidden="true">',
-    bn: '<img src="/__l5e/assets-v1/01f30965-8c07-496f-8609-f0ed240c68dd/bangladesh-flag.png" alt="" aria-hidden="true">'
+    bn: '<img src="/__l5e/assets-v1/285aed87-0a9c-4a62-b35f-70040e284dde/bangladesh-flag.png" alt="" aria-hidden="true">'
   };
 
   var NAMES = { en: "English", bn: "বাংলা" };
