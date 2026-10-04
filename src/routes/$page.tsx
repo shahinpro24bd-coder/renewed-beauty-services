@@ -4,14 +4,14 @@ import { createFileRoute } from "@tanstack/react-router";
 export const Route = createFileRoute("/$page")({
   head: ({ params }) => {
     const labels: Record<string, string> = {
-      "about.html": "Hakkımda",
-      "service.html": "Tedaviler",
-      "appoinment.html": "Randevu",
-      "contact.html": "İletişim",
+      "about.html": "About",
+      "service.html": "Treatments",
+      "appoinment.html": "Appointment",
+      "contact.html": "Contact",
     };
-    const label = labels[params.page] ?? "Sayfa";
+    const label = labels[params.page] ?? "Page";
     const title = `${label} | Dr. Fatema Mirza`;
-    const description = `Dr. Fatema Mirza — plastic and aesthetic surgery, ${label.toLocaleLowerCase("tr-TR")}, appointments in Dhaka and Gazipur.`;
+    const description = `Dr. Fatema Mirza — plastic and aesthetic surgery, ${label.toLowerCase()}, appointments in Dhaka and Gazipur.`;
     return {
       meta: [
         { title },
