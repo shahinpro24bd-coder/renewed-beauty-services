@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "langs": {
     "en": {
       "t_172rmfkwe7wq6": "Dr. Fatema Mirza",
@@ -813,7 +813,14 @@
       "t_1v8ev2w1k251ey": "Phone Number",
       "t_1flfy510471pb": "Message / Complaint",
       "t_10z5lk01spogoj": "Arrive on Time",
-      "t_0em1f96msj632": "Appointment Date"
+      "t_0em1f96msj632": "Appointment Date",
+      "t_z0yzx31kjh2nb": "Plexiform Neurofibroma Care",
+      "t_0jd3kzc5231ob": "Surgical Treatments",
+      "t_1dq0ge61l9pb4g": "Book Appointment via WhatsApp",
+      "t_kacls01g3fzce": "Appointment via WhatsApp",
+      "t_16skezz1exh1k9": "Appointment by Phone",
+      "t_0xybdn1i7yuob": "Appointment Request:",
+      "t_10c9hp61lf1jxp": "Appointment"
     },
     "bn": {
       "t_172rmfkwe7wq6": "ডা. ফাতেমা মির্জা",
@@ -1627,7 +1634,14 @@
       "t_1v8ev2w1k251ey": "ফোন নম্বর",
       "t_1flfy510471pb": "বার্তা/অভিযোগ",
       "t_10z5lk01spogoj": "সময়মত পৌঁছান",
-      "t_0em1f96msj632": "অ্যাপয়েন্টমেন্টের তারিখ"
+      "t_0em1f96msj632": "অ্যাপয়েন্টমেন্টের তারিখ",
+      "t_z0yzx31kjh2nb": "প্লেক্সিফর্ম নিউরোফাইব্রোমা কেয়ার",
+      "t_0jd3kzc5231ob": "সার্জিক্যাল চিকিৎসাসমূহ",
+      "t_1dq0ge61l9pb4g": "হোয়াটসঅ্যাপের মাধ্যমে অ্যাপয়েন্টমেন্ট বুক করুন",
+      "t_kacls01g3fzce": "হোয়াটসঅ্যাপের মাধ্যমে অ্যাপয়েন্টমেন্ট",
+      "t_16skezz1exh1k9": "ফোনে অ্যাপয়েন্টমেন্ট",
+      "t_0xybdn1i7yuob": "অ্যাপয়েন্টমেন্ট অনুরোধ:",
+      "t_10c9hp61lf1jxp": "নিয়োগ"
     }
   },
   "images": {
