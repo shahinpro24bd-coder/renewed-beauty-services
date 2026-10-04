@@ -41,11 +41,11 @@ export function imageSlot(src: string): string {
 }
 
 export const PAGES = [
-  { slug: "index", file: "index.html", label: "Anasayfa" },
-  { slug: "about", file: "about.html", label: "Hakkımda" },
-  { slug: "service", file: "service.html", label: "Tedaviler" },
-  { slug: "appoinment", file: "appoinment.html", label: "Randevu" },
-  { slug: "contact", file: "contact.html", label: "İletişim" },
+  { slug: "index", file: "index.html", label: "Home" },
+  { slug: "about", file: "about.html", label: "About" },
+  { slug: "service", file: "service.html", label: "Treatments" },
+  { slug: "appoinment", file: "appoinment.html", label: "Appointment" },
+  { slug: "contact", file: "contact.html", label: "Contact" },
 ] as const;
 
 export type PageSlug = (typeof PAGES)[number]["slug"];
